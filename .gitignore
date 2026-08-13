@@ -28,3 +28,21 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# ==========================================
+# 🟢 추가 설정 (Project & Local Environment)
+# ==========================================
+
+# 1. IntelliJ 전용 개별 모듈 및 설정 폴더 (깃허브 공유 금지)
+.idea/
+*.iml
+
+# 2. 자바 컴파일 및 빌드 결과물 (자동 생성 파일)
+*.class
+*.jar
+*.war
+
+# 3. 윈도우 OS 시스템 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
