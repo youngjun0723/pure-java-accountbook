@@ -46,3 +46,7 @@ bin/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# 4. 애플리케이션 실행 중 생성되는 런타임 데이터 파일
+*.csv
+expenses.csv
